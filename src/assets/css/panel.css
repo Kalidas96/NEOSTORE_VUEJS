@@ -1,0 +1,15 @@
+.panel {
+    box-shadow: 0 0 4px rgba(40, 44, 63, 0.08);
+    border: 1px solid #eaeaec;
+  }
+  
+  .panel-default>.panel-heading {
+    background-color: #fff;
+    border-color: #fff;
+  }
+  
+  .panel-default>.panel-footer {
+    background-color: #fff;
+    border-color: #fff;
+  }
+  

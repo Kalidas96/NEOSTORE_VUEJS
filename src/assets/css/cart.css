@@ -1,0 +1,18 @@
+.quantity {
+    width: 30px;
+}
+
+.cover {
+    width: 72px; 
+    height: 72px;
+    object-fit: cover;
+}
+
+input[type="number"]::-webkit-outer-spin-button,
+input[type="number"]::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+}
+input[type="number"] {
+    -moz-appearance: textfield;
+}

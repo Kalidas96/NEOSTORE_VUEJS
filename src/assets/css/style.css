@@ -1,0 +1,23 @@
+@media (min-width: 970px) {
+    .container {
+        width: 970px;
+    }
+}
+
+html {
+    position: relative;
+    min-height: 100%;
+}
+
+body {
+    margin: 0 0 250px;
+}
+a,
+a label {
+    cursor: pointer!important;
+}
+
+.space-right{
+    margin-right: 5px!important;
+}
+

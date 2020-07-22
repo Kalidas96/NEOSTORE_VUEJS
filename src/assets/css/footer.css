@@ -1,0 +1,10 @@
+footer {
+    background-color: #fe3f3f;
+    color: #fff;
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    height: 250px;
+    width: 100%;
+    overflow: hidden;
+}

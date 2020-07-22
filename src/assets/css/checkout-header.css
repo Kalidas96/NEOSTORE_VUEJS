@@ -1,0 +1,28 @@
+.can-click {
+    cursor: pointer;
+  }
+  
+  ul li a {
+    cursor: not-allowed;
+  }
+  
+  .active {
+    border-bottom: 4px solid rgba(228, 22, 22, 0.81);
+  }
+  
+  .navbar .navbar-nav {
+    display: inline-block;
+    float: none;
+    vertical-align: top;
+  }
+  
+  .navbar .navbar-collapse {
+    text-align: center;
+  }
+  
+  .line {
+    border-top: 1px dashed #fff;
+    margin-top: 25px;
+    width: 40px;
+  }
+  
